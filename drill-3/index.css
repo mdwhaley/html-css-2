@@ -1,0 +1,55 @@
+#topBar {
+  height: 100px;
+  background-color: #d8d8d8;
+}
+
+#blueSquare {
+  height: 60px;
+  width: 60px;
+  background-color: #678ed6;
+  position: absolute;
+  top: 30px;
+  left: 30px;
+}
+
+#textBox {
+  margin: 40px 40px;
+}
+
+.colorBar {
+  height: 200px;
+}
+
+#blueBar {
+  background-color: #678ed6;
+}
+
+#tealBar {
+  background-color: #94dec4;
+}
+
+#oliveBar {
+  background-color: #c9e69a;
+}
+
+#yellowBar {
+  background-color: #f3e76c;
+}
+
+#help {
+  background-color: black;
+  color: white;
+  border-radius: 50%;
+  width: 30px;
+  height: 30px;
+  position: sticky;
+  position: fixed;
+  bottom: 5px;
+  right: 10px;
+  text-align: center;
+  margin: 7px;
+}
+
+#q {
+  margin: 7px;
+}
